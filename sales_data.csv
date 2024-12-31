@@ -1,0 +1,1001 @@
+Sale Date,Product,Sales Amount,Region,Sales Rep,Payment Method
+2024-10-25 07:22:45.816680,TV,193.52,East,Charlie,Cash
+2024-04-28 07:22:45.816706,Laptop,475.85,East,Alice,Credit Card
+2024-06-27 07:22:45.816711,Keyboard,368.68,North,Charlie,Online Payment
+2024-11-14 07:22:45.816714,Printer,303.34,South,Alice,Online Payment
+2024-06-05 07:22:45.816718,Printer,86.45,South,David,Bank Transfer
+2024-03-30 07:22:45.816721,Headphones,86.44,South,Charlie,Online Payment
+2024-06-15 07:22:45.816725,Printer,38.46,South,Alice,Credit Card
+2024-09-29 07:22:45.816729,Tablet,434.43,East,Alice,Credit Card
+2024-10-10 07:22:45.816738,TV,304.55,South,Bob,Bank Transfer
+2024-11-03 07:22:45.816743,Mouse,356.96,East,Eva,Online Payment
+2024-11-06 07:22:45.816746,Headphones,20.09,South,Eva,Online Payment
+2024-06-28 07:22:45.816749,Camera,485.26,South,Bob,Cash
+2024-01-27 07:22:45.816751,Headphones,417.9,East,Eva,Bank Transfer
+2024-05-20 07:22:45.816755,Smartphone,114.05,West,Bob,Cash
+2024-11-21 07:22:45.816758,Keyboard,99.09,South,Bob,Cash
+2024-09-19 07:22:45.816761,Smartwatch,99.87,East,Bob,Cash
+2024-05-06 07:22:45.816763,Headphones,159.08,North,David,Cash
+2024-09-14 07:22:45.816766,TV,267.13,West,Bob,Cash
+2024-05-13 07:22:45.816769,Tablet,221.65,North,Charlie,Credit Card
+2024-01-18 07:22:45.816772,Mouse,152.7,West,Eva,Online Payment
+2024-12-07 07:22:45.816775,TV,309.81,South,Charlie,Online Payment
+2024-06-12 07:22:45.816778,Printer,78.35,East,Bob,Credit Card
+2024-04-28 07:22:45.816781,Camera,153.15,West,David,Online Payment
+2024-08-16 07:22:45.816783,Laptop,189.52,South,David,Credit Card
+2024-10-05 07:22:45.816786,TV,233.47,South,David,Cash
+2024-05-24 07:22:45.816789,Smartphone,394.74,South,Alice,Cash
+2024-11-17 07:22:45.816792,Smartphone,107.84,West,Alice,Online Payment
+2024-08-04 07:22:45.816794,Smartphone,261.97,West,David,Cash
+2024-06-10 07:22:45.816797,Smartphone,300.28,South,Alice,Cash
+2024-02-12 07:22:45.816799,Keyboard,32.76,East,David,Cash
+2024-07-12 07:22:45.816802,Laptop,307.7,South,Bob,Bank Transfer
+2024-01-11 07:22:45.816805,Smartphone,93.56,West,Charlie,Online Payment
+2024-02-19 07:22:45.816808,Headphones,41.88,East,Charlie,Cash
+2024-04-22 07:22:45.816811,Printer,474.95,West,Bob,Online Payment
+2024-01-23 07:22:45.816813,Tablet,483.16,East,Alice,Bank Transfer
+2024-08-10 07:22:45.816816,Mouse,406.11,West,David,Bank Transfer
+2024-06-06 07:22:45.816819,Camera,159.26,West,Charlie,Credit Card
+2024-04-17 07:22:45.816822,Tablet,57.86,East,Eva,Online Payment
+2024-04-17 07:22:45.816825,Smartwatch,345.27,West,Charlie,Bank Transfer
+2024-05-18 07:22:45.816827,Camera,225.67,North,Alice,Cash
+2024-06-22 07:22:45.816830,Mouse,69.8,East,Alice,Cash
+2024-05-04 07:22:45.816833,Mouse,252.64,North,Alice,Bank Transfer
+2024-11-04 07:22:45.816835,Tablet,26.85,North,Eva,Bank Transfer
+2024-08-16 07:22:45.816838,Mouse,455.57,East,Eva,Online Payment
+2024-06-01 07:22:45.816841,Mouse,136.8,West,Charlie,Credit Card
+2024-05-10 07:22:45.816844,Mouse,334.64,West,Eva,Bank Transfer
+2024-05-26 07:22:45.816846,Smartwatch,162.74,West,David,Bank Transfer
+2024-04-10 07:22:45.816849,Camera,264.83,West,Alice,Cash
+2024-06-28 07:22:45.816851,Smartphone,277.89,South,Alice,Online Payment
+2024-12-23 07:22:45.816854,Printer,100.58,West,Alice,Online Payment
+2024-12-01 07:22:45.816857,Smartwatch,485.1,West,Alice,Cash
+2024-12-27 07:22:45.816859,Laptop,389.82,East,Eva,Credit Card
+2024-05-15 07:22:45.816862,Laptop,470.35,East,Alice,Online Payment
+2024-02-12 07:22:45.816864,Keyboard,448.47,West,Bob,Bank Transfer
+2024-04-23 07:22:45.816868,Smartphone,302.97,East,David,Bank Transfer
+2024-03-15 07:22:45.816870,Printer,461.72,East,Charlie,Online Payment
+2024-02-27 07:22:45.816873,Printer,53.36,East,David,Cash
+2024-03-22 07:22:45.816876,Laptop,106.03,West,Alice,Online Payment
+2024-12-10 07:22:45.816879,Smartphone,32.16,North,David,Cash
+2024-10-15 07:22:45.816881,TV,169.41,South,Alice,Bank Transfer
+2024-09-22 07:22:45.816884,Smartwatch,200.45,South,Eva,Bank Transfer
+2024-06-22 07:22:45.816886,Smartwatch,142.96,East,David,Cash
+2024-05-11 07:22:45.816889,Keyboard,416.08,North,Eva,Cash
+2024-07-02 07:22:45.816892,Printer,184.81,South,Alice,Cash
+2024-03-07 07:22:45.816894,Camera,147.66,East,Bob,Cash
+2024-04-30 07:22:45.816898,Smartphone,275.92,West,Bob,Online Payment
+2024-02-17 07:22:45.816900,Camera,79.05,South,Bob,Cash
+2024-12-08 07:22:45.816903,Smartphone,403.08,South,Charlie,Cash
+2024-05-09 07:22:45.816906,Printer,46.53,East,Charlie,Credit Card
+2024-03-24 07:22:45.816910,Headphones,493.57,East,David,Credit Card
+2024-06-18 07:22:45.816912,Laptop,388.4,North,Charlie,Cash
+2024-07-09 07:22:45.816915,Printer,107.37,North,Charlie,Credit Card
+2024-12-16 07:22:45.816917,TV,12.71,West,Alice,Online Payment
+2024-10-07 07:22:45.816920,Tablet,409.58,South,David,Credit Card
+2024-12-11 07:22:45.816923,Mouse,356.36,East,Charlie,Online Payment
+2024-05-31 07:22:45.816926,TV,367.21,South,Bob,Credit Card
+2024-03-03 07:22:45.816928,Headphones,387.92,South,Charlie,Cash
+2024-08-04 07:22:45.816931,Smartphone,46.28,West,Eva,Online Payment
+2024-06-04 07:22:45.816934,Tablet,185.65,North,Alice,Cash
+2024-10-27 07:22:45.816936,Tablet,66.78,South,Alice,Credit Card
+2024-06-14 07:22:45.816939,Tablet,432.92,North,David,Credit Card
+2024-04-21 07:22:45.816941,TV,315.42,North,David,Credit Card
+2024-09-28 07:22:45.816944,Camera,172.14,South,Bob,Online Payment
+2024-11-22 07:22:45.816947,Mouse,41.14,West,David,Credit Card
+2024-02-08 07:22:45.816950,TV,162.38,West,Alice,Cash
+2024-05-23 07:22:45.816952,Headphones,169.34,West,Eva,Cash
+2024-08-17 07:22:45.816955,Smartphone,367.51,South,Bob,Cash
+2024-12-13 07:22:45.816960,Laptop,322.4,West,Charlie,Online Payment
+2024-07-28 07:22:45.816964,Smartwatch,444.73,West,Bob,Bank Transfer
+2024-05-06 07:22:45.816969,Smartwatch,241.39,South,Charlie,Bank Transfer
+2024-01-09 07:22:45.816984,Camera,68.6,North,David,Cash
+2024-01-20 07:22:45.816993,Smartwatch,359.49,East,Alice,Bank Transfer
+2024-05-08 07:22:45.816996,Laptop,382.78,South,Charlie,Online Payment
+2024-11-03 07:22:45.816998,TV,285.03,South,Eva,Cash
+2024-03-02 07:22:45.817001,Headphones,387.77,West,Alice,Online Payment
+2024-08-04 07:22:45.817003,Smartwatch,251.96,North,Charlie,Online Payment
+2024-02-20 07:22:45.817007,TV,266.14,North,David,Credit Card
+2024-03-16 07:22:45.817009,Keyboard,219.5,South,Eva,Online Payment
+2024-07-08 07:22:45.817012,Mouse,22.46,West,Eva,Credit Card
+2024-06-28 07:22:45.817015,Tablet,62.87,East,David,Online Payment
+2024-02-26 07:22:45.817017,TV,25.4,West,Eva,Online Payment
+2024-01-05 07:22:45.817020,Headphones,321.84,South,Alice,Online Payment
+2024-09-13 07:22:45.817023,Tablet,164.03,West,David,Credit Card
+2024-10-30 07:22:45.817025,Printer,259.2,East,David,Credit Card
+2024-07-26 07:22:45.817028,Keyboard,454.71,South,Eva,Cash
+2024-01-17 07:22:45.817031,TV,132.15,South,Bob,Online Payment
+2024-11-27 07:22:45.817034,Mouse,211.09,North,David,Online Payment
+2024-09-24 07:22:45.817038,Tablet,380.22,West,Charlie,Credit Card
+2024-04-11 07:22:45.817042,Laptop,122.11,East,Charlie,Credit Card
+2024-09-08 07:22:45.817047,Smartwatch,47.72,West,Charlie,Credit Card
+2024-06-21 07:22:45.817051,Smartphone,151.98,East,David,Bank Transfer
+2024-12-28 07:22:45.817056,Mouse,89.0,West,Charlie,Cash
+2024-01-10 07:22:45.817060,Smartwatch,465.55,West,Charlie,Cash
+2024-10-12 07:22:45.817065,TV,405.98,East,Alice,Bank Transfer
+2024-09-03 07:22:45.817069,TV,320.37,North,Alice,Bank Transfer
+2024-09-16 07:22:45.817075,Printer,437.02,North,Eva,Bank Transfer
+2024-05-11 07:22:45.817088,Laptop,403.8,East,Alice,Credit Card
+2024-08-11 07:22:45.817090,Keyboard,101.42,East,Charlie,Cash
+2024-10-17 07:22:45.817093,Keyboard,447.35,South,Bob,Credit Card
+2024-08-23 07:22:45.817096,Camera,274.28,East,Alice,Online Payment
+2024-02-11 07:22:45.817099,Camera,405.65,West,Charlie,Cash
+2024-09-07 07:22:45.817101,Camera,449.08,South,Alice,Bank Transfer
+2024-10-21 07:22:45.817104,Camera,165.82,North,Bob,Cash
+2024-05-17 07:22:45.817106,Printer,63.93,West,Alice,Bank Transfer
+2024-11-24 07:22:45.817109,Tablet,121.69,West,Alice,Bank Transfer
+2024-09-14 07:22:45.817111,Tablet,219.28,East,David,Credit Card
+2024-10-12 07:22:45.817114,Camera,410.83,North,Bob,Online Payment
+2024-09-01 07:22:45.817117,TV,431.76,South,Bob,Cash
+2024-08-29 07:22:45.817120,TV,13.41,South,Bob,Online Payment
+2024-05-14 07:22:45.817122,TV,260.27,West,David,Cash
+2024-10-26 07:22:45.817125,Headphones,214.53,South,David,Cash
+2024-10-07 07:22:45.817128,Tablet,118.83,North,Charlie,Credit Card
+2024-11-28 07:22:45.817140,Printer,68.73,North,Bob,Cash
+2024-02-16 07:22:45.817143,TV,175.43,North,Alice,Bank Transfer
+2024-09-21 07:22:45.817146,Smartphone,472.03,North,Eva,Cash
+2024-09-12 07:22:45.817149,Printer,168.37,North,Eva,Bank Transfer
+2024-04-29 07:22:45.817151,Tablet,264.21,South,Bob,Bank Transfer
+2024-05-21 07:22:45.817154,Mouse,354.48,North,Bob,Online Payment
+2024-05-06 07:22:45.817156,Smartwatch,188.18,North,Alice,Credit Card
+2024-02-11 07:22:45.817160,Smartphone,486.17,West,Bob,Bank Transfer
+2024-07-28 07:22:45.817165,Printer,481.6,South,Alice,Credit Card
+2024-09-10 07:22:45.817169,Smartwatch,133.37,East,Bob,Credit Card
+2024-03-21 07:22:45.817174,Printer,253.65,East,David,Credit Card
+2024-08-03 07:22:45.817179,Mouse,157.43,West,David,Cash
+2024-01-07 07:22:45.817183,Smartphone,149.57,East,Bob,Online Payment
+2024-01-09 07:22:45.817188,Keyboard,28.07,South,Alice,Cash
+2024-11-02 07:22:45.817193,TV,308.69,West,Charlie,Bank Transfer
+2024-06-21 07:22:45.817197,Printer,256.31,East,Eva,Cash
+2024-07-30 07:22:45.817202,Headphones,35.22,South,Bob,Bank Transfer
+2024-07-11 07:22:45.817207,Laptop,146.54,West,Eva,Bank Transfer
+2024-02-26 07:22:45.817212,Laptop,455.05,West,Eva,Online Payment
+2024-01-15 07:22:45.817217,Camera,127.39,East,David,Online Payment
+2024-05-08 07:22:45.817220,Headphones,81.0,East,David,Cash
+2024-02-18 07:22:45.817223,Laptop,249.83,North,Alice,Cash
+2024-07-19 07:22:45.817226,Smartwatch,492.97,South,Bob,Credit Card
+2024-10-20 07:22:45.817228,Tablet,128.61,East,Alice,Online Payment
+2024-12-25 07:22:45.817231,Keyboard,339.35,East,David,Credit Card
+2024-06-11 07:22:45.817233,Laptop,383.19,West,Alice,Cash
+2024-05-15 07:22:45.817236,Keyboard,126.44,East,Eva,Cash
+2024-06-27 07:22:45.817239,Smartphone,366.83,South,Alice,Bank Transfer
+2024-02-26 07:22:45.817241,Smartphone,190.21,East,Bob,Online Payment
+2024-04-24 07:22:45.817244,Keyboard,319.83,East,Bob,Online Payment
+2024-08-16 07:22:45.817247,Smartwatch,320.43,South,Bob,Credit Card
+2024-10-16 07:22:45.817249,TV,272.53,North,Bob,Cash
+2024-08-23 07:22:45.817252,Laptop,54.24,West,Bob,Bank Transfer
+2024-10-17 07:22:45.817254,Smartphone,419.3,East,Alice,Credit Card
+2024-10-29 07:22:45.817257,Camera,167.18,East,Alice,Online Payment
+2024-06-10 07:22:45.817260,Keyboard,101.39,West,Eva,Online Payment
+2024-02-02 07:22:45.817262,Smartphone,29.98,North,Bob,Cash
+2024-06-22 07:22:45.817266,Mouse,299.54,North,Bob,Bank Transfer
+2024-02-12 07:22:45.817268,Smartphone,342.01,South,Bob,Credit Card
+2024-06-14 07:22:45.817271,Camera,18.13,East,Alice,Credit Card
+2024-07-19 07:22:45.817274,TV,260.93,South,Charlie,Cash
+2024-06-08 07:22:45.817277,Smartwatch,120.98,East,Charlie,Bank Transfer
+2024-02-20 07:22:45.817280,Camera,326.13,North,David,Credit Card
+2024-09-20 07:22:45.817282,TV,95.44,East,Bob,Online Payment
+2024-09-23 07:22:45.817285,Camera,348.56,West,Bob,Cash
+2024-08-11 07:22:45.817290,Smartwatch,199.5,West,David,Bank Transfer
+2024-06-04 07:22:45.817293,Mouse,469.0,West,Alice,Credit Card
+2024-02-26 07:22:45.817296,Laptop,77.39,West,Bob,Online Payment
+2024-05-29 07:22:45.817298,TV,177.12,West,David,Credit Card
+2024-08-25 07:22:45.817301,Laptop,65.6,West,Charlie,Cash
+2024-10-27 07:22:45.817304,Headphones,463.1,West,Eva,Cash
+2024-08-07 07:22:45.817307,Printer,439.9,North,Charlie,Cash
+2024-06-28 07:22:45.817309,Smartphone,136.39,South,Eva,Credit Card
+2024-12-11 07:22:45.817312,Camera,333.39,East,Alice,Online Payment
+2024-05-13 07:22:45.817314,Smartwatch,410.44,South,David,Cash
+2024-07-01 07:22:45.817317,Camera,282.05,South,Alice,Bank Transfer
+2024-11-22 07:22:45.817319,Tablet,269.53,North,Bob,Credit Card
+2024-08-19 07:22:45.817322,Tablet,128.51,North,Eva,Cash
+2024-10-30 07:22:45.817325,Keyboard,55.62,North,Eva,Online Payment
+2024-08-21 07:22:45.817327,Laptop,449.64,South,Charlie,Bank Transfer
+2024-02-15 07:22:45.817330,TV,451.2,West,Eva,Credit Card
+2024-03-24 07:22:45.817333,Printer,320.22,West,David,Bank Transfer
+2024-08-14 07:22:45.817336,Keyboard,176.12,North,Charlie,Bank Transfer
+2024-01-18 07:22:45.817338,Smartphone,181.11,South,Alice,Online Payment
+2024-02-01 07:22:45.817341,Camera,365.72,North,Alice,Bank Transfer
+2024-05-31 07:22:45.817344,Keyboard,449.58,North,Eva,Bank Transfer
+2024-04-13 07:22:45.817347,Laptop,444.67,East,Alice,Cash
+2024-06-27 07:22:45.817349,Tablet,392.14,South,David,Online Payment
+2024-08-25 07:22:45.817352,Laptop,324.6,South,Bob,Online Payment
+2024-04-11 07:22:45.817355,Keyboard,51.23,West,Bob,Cash
+2024-06-29 07:22:45.817357,Printer,89.2,South,Charlie,Credit Card
+2024-03-25 07:22:45.817360,Camera,450.29,North,Alice,Cash
+2024-12-09 07:22:45.817363,Keyboard,307.15,North,Eva,Cash
+2024-12-06 07:22:45.817366,Laptop,14.51,North,Eva,Credit Card
+2024-11-03 07:22:45.817371,Printer,59.72,South,David,Cash
+2024-08-21 07:22:45.817375,Mouse,335.12,West,Bob,Bank Transfer
+2024-11-17 07:22:45.817379,TV,12.48,East,Charlie,Credit Card
+2024-04-06 07:22:45.817384,Tablet,88.8,East,Eva,Credit Card
+2024-01-02 07:22:45.817389,Smartwatch,278.88,North,Bob,Online Payment
+2024-10-17 07:22:45.817393,Headphones,349.03,North,Eva,Cash
+2024-12-01 07:22:45.817398,Printer,329.46,East,Eva,Credit Card
+2024-05-15 07:22:45.817412,Laptop,119.89,East,Charlie,Cash
+2024-05-06 07:22:45.817416,Camera,358.97,West,David,Credit Card
+2024-10-17 07:22:45.817419,Headphones,126.25,South,Alice,Cash
+2024-09-23 07:22:45.817421,Keyboard,169.45,East,David,Online Payment
+2024-02-24 07:22:45.817423,Smartphone,375.78,South,David,Online Payment
+2024-04-18 07:22:45.817426,Mouse,328.32,West,Alice,Credit Card
+2024-04-18 07:22:45.817429,Printer,426.12,West,David,Bank Transfer
+2024-05-17 07:22:45.817431,Smartwatch,332.23,South,David,Online Payment
+2024-03-04 07:22:45.817434,Keyboard,288.47,South,David,Credit Card
+2024-08-19 07:22:45.817436,Laptop,55.9,South,Charlie,Online Payment
+2024-02-22 07:22:45.817439,Smartphone,190.18,East,David,Credit Card
+2024-01-28 07:22:45.817441,Camera,139.95,West,David,Online Payment
+2024-09-12 07:22:45.817444,Keyboard,129.55,South,Alice,Cash
+2024-07-13 07:22:45.817446,Mouse,486.78,South,Eva,Cash
+2024-12-13 07:22:45.817449,Smartphone,202.62,West,Bob,Cash
+2024-09-30 07:22:45.817451,Tablet,447.1,North,David,Credit Card
+2024-06-10 07:22:45.817454,Smartphone,319.26,East,David,Online Payment
+2024-04-12 07:22:45.817456,TV,399.46,South,Bob,Credit Card
+2024-02-25 07:22:45.817459,Tablet,256.29,West,Bob,Online Payment
+2024-06-12 07:22:45.817461,Keyboard,292.68,West,Eva,Cash
+2024-05-25 07:22:45.817464,Camera,251.33,West,Eva,Credit Card
+2024-06-02 07:22:45.817467,Printer,105.67,West,Bob,Online Payment
+2024-08-12 07:22:45.817469,Smartphone,364.0,West,Eva,Cash
+2024-07-25 07:22:45.817472,Keyboard,147.58,East,Alice,Online Payment
+2024-12-30 07:22:45.817474,Headphones,21.91,East,David,Bank Transfer
+2024-07-07 07:22:45.817477,Smartphone,326.28,East,Charlie,Cash
+2024-07-23 07:22:45.817479,Smartphone,96.78,South,Bob,Online Payment
+2024-02-08 07:22:45.817482,Headphones,470.82,East,Charlie,Online Payment
+2024-03-10 07:22:45.817484,Printer,477.43,South,Charlie,Online Payment
+2024-10-25 07:22:45.817487,Tablet,458.28,West,Alice,Credit Card
+2024-02-12 07:22:45.817489,Laptop,191.38,East,David,Cash
+2024-09-01 07:22:45.817492,Camera,17.57,South,Bob,Bank Transfer
+2024-07-25 07:22:45.817494,Camera,464.88,North,David,Cash
+2024-04-29 07:22:45.817497,Tablet,219.81,East,David,Bank Transfer
+2024-10-26 07:22:45.817499,Smartwatch,483.66,West,Alice,Bank Transfer
+2024-03-31 07:22:45.817502,Smartwatch,482.17,North,Eva,Online Payment
+2024-08-10 07:22:45.817504,Laptop,427.97,West,David,Bank Transfer
+2024-03-03 07:22:45.817507,Mouse,154.28,South,Charlie,Bank Transfer
+2024-11-16 07:22:45.817509,Keyboard,198.7,West,Eva,Cash
+2024-01-10 07:22:45.817512,Smartphone,427.06,North,Bob,Cash
+2024-11-05 07:22:45.817514,Smartphone,165.29,West,Bob,Credit Card
+2024-06-12 07:22:45.817517,TV,93.05,East,Charlie,Credit Card
+2024-09-20 07:22:45.817519,Laptop,282.83,North,Eva,Credit Card
+2024-01-14 07:22:45.817522,Headphones,468.72,East,David,Bank Transfer
+2024-12-31 07:22:45.817525,Smartphone,351.05,East,Charlie,Credit Card
+2024-05-18 07:22:45.817528,Headphones,289.33,West,Bob,Online Payment
+2024-06-29 07:22:45.817530,Printer,57.62,West,Charlie,Cash
+2024-04-14 07:22:45.817533,TV,311.35,North,Bob,Online Payment
+2024-07-17 07:22:45.817535,Mouse,495.13,East,Charlie,Online Payment
+2024-07-18 07:22:45.817538,Mouse,78.64,South,Charlie,Credit Card
+2024-08-17 07:22:45.817540,Smartphone,263.98,East,Eva,Online Payment
+2024-12-15 07:22:45.817543,TV,439.91,West,Charlie,Online Payment
+2024-11-09 07:22:45.817545,Camera,372.98,East,Bob,Credit Card
+2024-11-28 07:22:45.817548,Printer,351.54,South,Charlie,Cash
+2024-11-17 07:22:45.817550,Smartphone,354.22,West,Charlie,Bank Transfer
+2024-05-08 07:22:45.817553,Printer,186.15,East,Alice,Credit Card
+2024-11-08 07:22:45.817556,TV,153.86,West,Bob,Credit Card
+2024-02-11 07:22:45.817558,Smartphone,406.59,East,David,Cash
+2024-09-16 07:22:45.817561,Printer,406.96,North,Alice,Bank Transfer
+2024-06-26 07:22:45.817563,Smartphone,434.87,North,David,Online Payment
+2024-01-29 07:22:45.817566,Camera,457.49,West,Charlie,Credit Card
+2024-08-02 07:22:45.817568,Laptop,260.56,West,Eva,Online Payment
+2024-05-15 07:22:45.817571,Laptop,255.74,West,Alice,Cash
+2024-04-26 07:22:45.817573,Smartwatch,401.16,West,Alice,Credit Card
+2024-08-08 07:22:45.817576,Smartwatch,328.48,West,Alice,Cash
+2024-07-04 07:22:45.817579,Camera,353.96,South,David,Bank Transfer
+2024-02-06 07:22:45.817581,Printer,399.94,North,Alice,Bank Transfer
+2024-07-22 07:22:45.817583,Laptop,446.1,West,Eva,Cash
+2024-06-24 07:22:45.817586,Printer,175.62,West,Alice,Bank Transfer
+2024-08-10 07:22:45.817589,TV,194.04,East,Eva,Credit Card
+2024-06-17 07:22:45.817591,Camera,56.05,West,Bob,Cash
+2024-10-16 07:22:45.817593,Smartphone,293.36,South,David,Online Payment
+2024-08-24 07:22:45.817596,Smartwatch,27.61,South,Charlie,Cash
+2024-08-05 07:22:45.817598,Printer,238.14,West,Charlie,Credit Card
+2024-02-26 07:22:45.817600,Tablet,275.9,North,Bob,Cash
+2024-09-16 07:22:45.817603,Smartwatch,150.41,North,Charlie,Credit Card
+2024-02-24 07:22:45.817606,Smartwatch,299.51,East,David,Online Payment
+2024-03-01 07:22:45.817608,Laptop,24.95,East,Charlie,Cash
+2024-01-05 07:22:45.817611,Laptop,28.3,West,Eva,Bank Transfer
+2024-11-23 07:22:45.817613,TV,413.07,North,Alice,Online Payment
+2024-01-11 07:22:45.817616,Smartwatch,186.49,South,Eva,Credit Card
+2024-09-17 07:22:45.817618,Mouse,72.26,East,Alice,Online Payment
+2024-11-10 07:22:45.817621,TV,265.9,North,Alice,Bank Transfer
+2024-11-05 07:22:45.817623,Laptop,387.3,East,Bob,Bank Transfer
+2024-03-19 07:22:45.817626,TV,115.75,North,Eva,Online Payment
+2024-08-08 07:22:45.817628,Mouse,315.22,West,Eva,Cash
+2024-06-15 07:22:45.817631,TV,51.82,East,Eva,Online Payment
+2024-10-21 07:22:45.817633,Keyboard,35.32,West,Alice,Cash
+2024-10-20 07:22:45.817636,Mouse,270.36,South,Charlie,Bank Transfer
+2024-07-09 07:22:45.817638,TV,274.91,South,Charlie,Credit Card
+2024-08-13 07:22:45.817641,Smartphone,322.34,North,Eva,Cash
+2024-07-10 07:22:45.817643,Headphones,365.78,North,Eva,Credit Card
+2024-08-09 07:22:45.817646,Laptop,488.17,East,Bob,Bank Transfer
+2024-05-08 07:22:45.817648,Camera,262.99,West,David,Bank Transfer
+2024-09-21 07:22:45.817650,Camera,168.25,West,Alice,Cash
+2024-05-27 07:22:45.817653,Headphones,399.64,West,Charlie,Cash
+2024-11-25 07:22:45.817657,TV,142.71,West,David,Online Payment
+2024-03-15 07:22:45.817660,Smartwatch,225.1,North,Charlie,Cash
+2024-08-14 07:22:45.817662,Printer,48.44,North,David,Bank Transfer
+2024-03-11 07:22:45.817665,Mouse,22.42,West,David,Credit Card
+2024-08-13 07:22:45.817667,Smartphone,481.7,North,Bob,Credit Card
+2024-02-07 07:22:45.817670,Tablet,419.63,South,Alice,Bank Transfer
+2024-05-31 07:22:45.817672,Keyboard,351.03,North,Charlie,Credit Card
+2024-05-06 07:22:45.817675,Mouse,210.39,West,Charlie,Bank Transfer
+2024-01-01 07:22:45.817677,Mouse,94.91,East,Charlie,Cash
+2024-09-20 07:22:45.817680,TV,86.65,South,Bob,Bank Transfer
+2024-10-06 07:22:45.817684,Laptop,132.62,South,Charlie,Online Payment
+2024-07-06 07:22:45.817687,Laptop,279.12,West,Alice,Credit Card
+2024-04-15 07:22:45.817689,TV,360.15,East,David,Bank Transfer
+2024-06-30 07:22:45.817692,Keyboard,333.5,South,David,Cash
+2024-08-15 07:22:45.817694,Smartwatch,147.17,West,Eva,Credit Card
+2024-09-28 07:22:45.817697,Headphones,477.88,North,Bob,Bank Transfer
+2024-07-20 07:22:45.817699,Laptop,371.57,South,Alice,Online Payment
+2024-07-20 07:22:45.817702,Camera,281.63,North,Charlie,Online Payment
+2024-11-02 07:22:45.817704,Tablet,309.74,South,Alice,Bank Transfer
+2024-12-08 07:22:45.817707,Smartphone,215.6,East,Bob,Cash
+2024-01-28 07:22:45.817709,Smartphone,131.39,North,Charlie,Online Payment
+2024-12-02 07:22:45.817712,Headphones,184.43,South,Eva,Credit Card
+2024-12-23 07:22:45.817714,Smartphone,381.34,South,Charlie,Bank Transfer
+2024-02-03 07:22:45.817717,Smartphone,17.05,East,Eva,Cash
+2024-12-21 07:22:45.817719,Keyboard,66.88,West,Charlie,Cash
+2024-03-06 07:22:45.817722,Smartwatch,32.54,North,Eva,Online Payment
+2024-02-23 07:22:45.817724,Smartphone,29.96,North,Bob,Credit Card
+2024-10-17 07:22:45.817728,Smartphone,429.18,East,Charlie,Cash
+2024-07-19 07:22:45.817730,Smartwatch,354.79,South,Charlie,Online Payment
+2024-12-13 07:22:45.817733,Printer,242.35,South,David,Cash
+2024-12-09 07:22:45.817735,Laptop,57.94,North,David,Online Payment
+2024-09-04 07:22:45.817743,Laptop,250.89,North,Bob,Cash
+2024-06-11 07:22:45.817746,Camera,242.0,South,Charlie,Online Payment
+2024-05-22 07:22:45.817749,Printer,94.87,North,Bob,Bank Transfer
+2024-09-06 07:22:45.817751,Headphones,222.59,West,Eva,Bank Transfer
+2024-04-10 07:22:45.817753,TV,205.27,North,Charlie,Credit Card
+2024-11-06 07:22:45.817756,Tablet,311.77,South,David,Credit Card
+2024-01-23 07:22:45.817758,Camera,321.2,South,Alice,Credit Card
+2024-01-01 07:22:45.817761,Laptop,32.2,South,Charlie,Online Payment
+2024-05-14 07:22:45.817764,Smartphone,193.56,North,Eva,Bank Transfer
+2024-11-24 07:22:45.817767,Laptop,316.67,North,Eva,Cash
+2024-12-22 07:22:45.817769,Laptop,256.54,North,Alice,Credit Card
+2024-07-24 07:22:45.817771,Printer,429.68,West,Charlie,Bank Transfer
+2024-06-23 07:22:45.817774,TV,332.76,North,Eva,Online Payment
+2024-09-22 07:22:45.817777,Tablet,89.84,South,Charlie,Bank Transfer
+2024-07-17 07:22:45.817780,Printer,44.58,South,Alice,Bank Transfer
+2024-06-25 07:22:45.817782,Laptop,324.79,West,Eva,Credit Card
+2024-09-07 07:22:45.817785,Laptop,22.99,South,Charlie,Cash
+2024-08-17 07:22:45.817787,Tablet,297.03,North,David,Cash
+2024-04-02 07:22:45.817790,Tablet,470.71,West,Eva,Bank Transfer
+2024-05-01 07:22:45.817792,Printer,291.98,West,David,Credit Card
+2024-03-14 07:22:45.817795,Smartwatch,200.2,South,David,Cash
+2024-11-20 07:22:45.817797,Camera,325.21,West,Bob,Credit Card
+2024-04-29 07:22:45.817800,TV,234.54,South,Alice,Online Payment
+2024-02-01 07:22:45.817802,Camera,277.35,East,Alice,Credit Card
+2024-03-09 07:22:45.817805,Mouse,471.32,North,Bob,Bank Transfer
+2024-07-01 07:22:45.817808,Smartwatch,199.19,East,Eva,Cash
+2024-10-18 07:22:45.817810,Headphones,480.98,South,Bob,Online Payment
+2024-05-24 07:22:45.817812,Headphones,453.62,North,Charlie,Cash
+2024-05-16 07:22:45.817815,Keyboard,105.94,South,Alice,Bank Transfer
+2024-05-08 07:22:45.817818,Tablet,43.99,South,David,Bank Transfer
+2024-09-15 07:22:45.817821,Laptop,59.38,East,Alice,Bank Transfer
+2024-01-08 07:22:45.817823,Tablet,18.93,North,David,Bank Transfer
+2024-10-25 07:22:45.817826,Tablet,56.28,West,Alice,Online Payment
+2024-03-01 07:22:45.817828,Smartwatch,344.67,South,Eva,Online Payment
+2024-04-25 07:22:45.817831,Laptop,44.88,North,Alice,Credit Card
+2024-01-22 07:22:45.817833,Mouse,166.3,North,David,Credit Card
+2024-03-24 07:22:45.817836,Printer,423.99,South,Alice,Credit Card
+2024-05-16 07:22:45.817839,TV,21.4,South,Eva,Cash
+2024-09-26 07:22:45.817841,Camera,409.09,West,David,Bank Transfer
+2024-04-16 07:22:45.817844,Smartphone,148.11,North,Alice,Credit Card
+2024-01-22 07:22:45.817846,Tablet,67.9,West,Bob,Cash
+2024-04-21 07:22:45.817849,Smartphone,351.4,South,David,Bank Transfer
+2024-11-24 07:22:45.817851,Laptop,318.18,North,David,Online Payment
+2024-08-02 07:22:45.817854,Camera,439.96,North,Bob,Online Payment
+2024-01-20 07:22:45.817857,Keyboard,370.18,West,Alice,Bank Transfer
+2024-01-21 07:22:45.817859,Smartphone,403.71,East,Charlie,Cash
+2024-10-01 07:22:45.817929,TV,148.2,North,Alice,Bank Transfer
+2024-07-24 07:22:45.817932,Camera,96.95,East,David,Cash
+2024-02-06 07:22:45.817935,Smartwatch,377.8,North,Bob,Credit Card
+2024-09-25 07:22:45.817937,Headphones,405.35,North,David,Cash
+2024-12-16 07:22:45.817940,Tablet,495.35,West,Bob,Cash
+2024-02-09 07:22:45.817942,Smartphone,212.18,North,David,Online Payment
+2024-08-13 07:22:45.817945,Headphones,192.29,North,Alice,Online Payment
+2024-10-31 07:22:45.817948,Laptop,390.44,South,David,Cash
+2024-09-20 07:22:45.817950,Smartwatch,176.99,East,Charlie,Credit Card
+2024-06-05 07:22:45.817953,Smartwatch,466.07,North,Charlie,Online Payment
+2024-08-06 07:22:45.817955,Smartphone,430.62,East,Bob,Cash
+2024-02-08 07:22:45.817958,Keyboard,220.21,North,Alice,Bank Transfer
+2024-05-04 07:22:45.817961,Smartphone,377.93,North,Eva,Online Payment
+2024-03-19 07:22:45.817963,Smartwatch,379.73,East,Charlie,Bank Transfer
+2024-11-19 07:22:45.817966,Printer,60.53,East,Charlie,Bank Transfer
+2024-11-03 07:22:45.817970,TV,452.25,West,Bob,Cash
+2024-07-17 07:22:45.817972,Camera,257.57,North,Bob,Online Payment
+2024-12-16 07:22:45.817975,TV,414.96,South,Alice,Bank Transfer
+2024-07-06 07:22:45.817977,Keyboard,166.82,North,David,Online Payment
+2024-05-05 07:22:45.817980,Camera,448.81,South,Alice,Bank Transfer
+2024-03-27 07:22:45.817982,Tablet,200.71,South,Eva,Bank Transfer
+2024-02-23 07:22:45.817985,Tablet,15.31,East,Charlie,Bank Transfer
+2024-07-12 07:22:45.817988,Tablet,453.64,North,Bob,Bank Transfer
+2024-02-28 07:22:45.817990,TV,54.73,West,Alice,Credit Card
+2024-01-22 07:22:45.817993,Smartphone,166.46,South,Eva,Bank Transfer
+2024-06-17 07:22:45.817996,Camera,475.53,North,Alice,Cash
+2024-01-31 07:22:45.817998,Camera,475.8,West,Bob,Cash
+2024-02-21 07:22:45.818001,Mouse,290.98,South,Eva,Online Payment
+2024-04-06 07:22:45.818003,Headphones,319.6,East,David,Cash
+2024-11-12 07:22:45.818006,Keyboard,229.74,North,Alice,Bank Transfer
+2024-11-21 07:22:45.818009,Tablet,153.67,South,Alice,Bank Transfer
+2024-08-24 07:22:45.818011,Smartwatch,171.05,South,Eva,Cash
+2024-09-09 07:22:45.818014,Printer,339.53,North,Eva,Cash
+2024-04-30 07:22:45.818017,TV,378.66,North,David,Bank Transfer
+2024-10-19 07:22:45.818019,Printer,397.87,North,David,Credit Card
+2024-01-31 07:22:45.818022,Mouse,396.91,North,Alice,Credit Card
+2024-11-20 07:22:45.818024,Mouse,54.69,South,Alice,Cash
+2024-07-08 07:22:45.818027,Keyboard,252.27,West,Alice,Credit Card
+2024-09-20 07:22:45.818029,Smartphone,38.2,East,David,Credit Card
+2024-06-07 07:22:45.818036,Laptop,279.27,East,Charlie,Cash
+2024-03-05 07:22:45.818040,Laptop,226.35,North,Alice,Bank Transfer
+2024-01-16 07:22:45.818044,Smartwatch,444.98,East,Eva,Cash
+2024-04-28 07:22:45.818049,TV,181.95,West,David,Credit Card
+2024-12-09 07:22:45.818054,TV,67.36,East,Bob,Online Payment
+2024-07-26 07:22:45.818058,Tablet,80.07,South,Bob,Online Payment
+2024-03-28 07:22:45.818074,TV,383.14,East,Alice,Cash
+2024-06-03 07:22:45.818076,Headphones,312.93,East,Alice,Credit Card
+2024-04-14 07:22:45.818079,Tablet,59.55,East,Charlie,Cash
+2024-12-07 07:22:45.818082,Mouse,51.21,East,David,Online Payment
+2024-05-10 07:22:45.818084,Mouse,353.47,North,Eva,Cash
+2024-09-19 07:22:45.818086,Printer,45.65,South,Eva,Credit Card
+2024-04-02 07:22:45.818089,TV,412.71,South,Alice,Online Payment
+2024-01-25 07:22:45.818093,Tablet,356.06,North,David,Bank Transfer
+2024-12-17 07:22:45.818095,Printer,49.86,North,David,Bank Transfer
+2024-03-12 07:22:45.818097,Headphones,51.57,South,Alice,Online Payment
+2024-12-09 07:22:45.818100,Camera,493.45,West,David,Cash
+2024-03-23 07:22:45.818103,Camera,193.39,North,David,Credit Card
+2024-09-22 07:22:45.818105,Mouse,191.61,West,Alice,Online Payment
+2024-05-01 07:22:45.818107,Laptop,408.27,East,Charlie,Online Payment
+2024-05-01 07:22:45.818110,Keyboard,474.15,North,Alice,Cash
+2024-06-13 07:22:45.818113,Headphones,493.14,West,Eva,Bank Transfer
+2024-11-17 07:22:45.818116,Mouse,379.16,South,Charlie,Bank Transfer
+2024-04-21 07:22:45.818120,Camera,194.37,West,Alice,Bank Transfer
+2024-07-25 07:22:45.818125,Headphones,50.92,North,Charlie,Credit Card
+2024-06-28 07:22:45.818129,Printer,390.8,South,Alice,Online Payment
+2024-07-29 07:22:45.818134,TV,283.62,North,Charlie,Bank Transfer
+2024-09-01 07:22:45.818138,Mouse,217.87,East,David,Bank Transfer
+2024-07-07 07:22:45.818142,Mouse,454.11,West,Alice,Credit Card
+2024-02-23 07:22:45.818147,TV,64.49,East,Charlie,Bank Transfer
+2024-10-25 07:22:45.818151,Headphones,251.39,East,David,Bank Transfer
+2024-10-27 07:22:45.818154,TV,15.56,South,Eva,Online Payment
+2024-12-30 07:22:45.818162,Mouse,239.64,West,Charlie,Cash
+2024-10-02 07:22:45.818165,Mouse,37.59,East,Alice,Online Payment
+2024-04-10 07:22:45.818167,Headphones,68.22,East,Alice,Credit Card
+2024-06-05 07:22:45.818169,Camera,67.59,North,Alice,Credit Card
+2024-03-30 07:22:45.818172,Headphones,328.11,South,Charlie,Online Payment
+2024-07-07 07:22:45.818175,Headphones,375.56,West,Alice,Online Payment
+2024-08-30 07:22:45.818177,Mouse,295.85,West,Charlie,Bank Transfer
+2024-12-19 07:22:45.818180,TV,481.46,East,David,Bank Transfer
+2024-09-01 07:22:45.818182,Printer,193.69,West,Charlie,Bank Transfer
+2024-07-05 07:22:45.818184,Tablet,150.0,East,Eva,Cash
+2024-04-29 07:22:45.818187,Headphones,435.61,North,Alice,Cash
+2024-12-03 07:22:45.818190,Laptop,119.56,South,Charlie,Online Payment
+2024-08-19 07:22:45.818192,Camera,481.98,West,Eva,Online Payment
+2024-09-06 07:22:45.818196,Keyboard,15.96,South,Eva,Credit Card
+2024-11-04 07:22:45.818201,Mouse,485.24,North,Bob,Bank Transfer
+2024-10-26 07:22:45.818205,Mouse,31.15,West,David,Bank Transfer
+2024-11-12 07:22:45.818209,TV,446.66,West,Bob,Cash
+2024-10-10 07:22:45.818214,Smartwatch,268.57,West,David,Bank Transfer
+2024-03-22 07:22:45.818228,Mouse,496.55,North,Eva,Cash
+2024-02-17 07:22:45.818230,Keyboard,46.16,North,Charlie,Bank Transfer
+2024-03-23 07:22:45.818233,TV,281.39,East,Alice,Credit Card
+2024-06-30 07:22:45.818235,Laptop,484.96,West,Alice,Credit Card
+2024-01-10 07:22:45.818238,Mouse,266.32,North,Bob,Online Payment
+2024-05-30 07:22:45.818241,Mouse,318.41,West,Bob,Bank Transfer
+2024-07-19 07:22:45.818243,Smartphone,350.92,North,Bob,Bank Transfer
+2024-10-03 07:22:45.818246,Tablet,232.73,North,Alice,Bank Transfer
+2024-05-08 07:22:45.818248,Headphones,317.5,West,Eva,Bank Transfer
+2024-05-22 07:22:45.818251,Tablet,296.31,South,Bob,Credit Card
+2024-12-04 07:22:45.818253,Smartwatch,451.57,East,Alice,Online Payment
+2024-04-24 07:22:45.818256,Laptop,32.27,North,Eva,Cash
+2024-07-28 07:22:45.818260,Headphones,147.67,East,Charlie,Online Payment
+2024-12-16 07:22:45.818265,Tablet,475.7,South,Charlie,Bank Transfer
+2024-02-07 07:22:45.818270,Smartphone,446.23,West,Alice,Credit Card
+2024-06-21 07:22:45.818274,Tablet,233.27,North,Eva,Cash
+2024-12-04 07:22:45.818279,Printer,313.86,West,David,Bank Transfer
+2024-05-12 07:22:45.818283,Camera,145.92,South,Alice,Online Payment
+2024-02-26 07:22:45.818288,Smartphone,102.18,North,Charlie,Bank Transfer
+2024-06-18 07:22:45.818301,Smartwatch,237.21,West,Charlie,Online Payment
+2024-06-11 07:22:45.818304,Tablet,183.14,East,Charlie,Bank Transfer
+2024-12-29 07:22:45.818306,TV,295.99,North,Eva,Online Payment
+2024-01-04 07:22:45.818308,Smartwatch,48.09,West,Eva,Cash
+2024-09-04 07:22:45.818311,Smartwatch,487.45,East,David,Cash
+2024-11-27 07:22:45.818313,Smartphone,493.24,South,Eva,Online Payment
+2024-05-19 07:22:45.818316,Smartwatch,352.1,West,Alice,Cash
+2024-05-29 07:22:45.818318,TV,272.69,West,Eva,Online Payment
+2024-07-13 07:22:45.818321,Laptop,161.67,East,Alice,Cash
+2024-02-11 07:22:45.818323,Mouse,408.76,North,Bob,Online Payment
+2024-09-22 07:22:45.818326,Keyboard,345.52,East,Charlie,Credit Card
+2024-04-08 07:22:45.818328,Camera,89.68,North,Bob,Bank Transfer
+2024-05-29 07:22:45.818331,Laptop,456.35,North,Eva,Credit Card
+2024-01-18 07:22:45.818333,Camera,413.04,East,Bob,Online Payment
+2024-07-21 07:22:45.818336,Smartwatch,475.4,West,Charlie,Online Payment
+2024-03-02 07:22:45.818339,Tablet,365.6,North,David,Online Payment
+2024-06-29 07:22:45.818345,Camera,310.57,North,Charlie,Online Payment
+2024-12-30 07:22:45.818347,Printer,214.94,South,Alice,Cash
+2024-06-17 07:22:45.818350,Laptop,467.04,East,Alice,Cash
+2024-06-08 07:22:45.818353,Mouse,434.37,South,Alice,Cash
+2024-05-16 07:22:45.818355,Laptop,32.16,South,Eva,Bank Transfer
+2024-11-10 07:22:45.818358,Headphones,22.92,East,Charlie,Cash
+2024-12-16 07:22:45.818360,Mouse,194.47,South,Alice,Credit Card
+2024-06-24 07:22:45.818363,Printer,407.17,East,Alice,Bank Transfer
+2024-02-13 07:22:45.818365,Camera,493.77,West,Bob,Credit Card
+2024-09-07 07:22:45.818368,TV,83.7,North,David,Online Payment
+2024-04-12 07:22:45.818370,Laptop,301.12,South,David,Bank Transfer
+2024-10-16 07:22:45.818373,TV,196.64,East,David,Online Payment
+2024-10-01 07:22:45.818376,Mouse,485.26,East,David,Bank Transfer
+2024-11-21 07:22:45.818378,Laptop,422.64,East,Charlie,Online Payment
+2024-11-08 07:22:45.818381,Headphones,420.78,South,Alice,Bank Transfer
+2024-06-20 07:22:45.818383,Smartphone,239.66,North,Eva,Cash
+2024-04-27 07:22:45.818385,Keyboard,213.26,North,David,Credit Card
+2024-04-05 07:22:45.818388,Keyboard,143.97,East,David,Credit Card
+2024-10-12 07:22:45.818391,Smartwatch,37.62,West,Eva,Cash
+2024-06-08 07:22:45.818393,Headphones,433.71,West,Charlie,Online Payment
+2024-04-08 07:22:45.818395,Headphones,408.32,East,Eva,Online Payment
+2024-01-09 07:22:45.818398,Tablet,499.86,East,Bob,Bank Transfer
+2024-07-17 07:22:45.818401,TV,498.35,North,Alice,Cash
+2024-04-22 07:22:45.818403,Smartphone,282.16,West,Eva,Online Payment
+2024-09-12 07:22:45.818405,Keyboard,386.8,West,Alice,Cash
+2024-03-01 07:22:45.818408,Smartwatch,472.94,East,Alice,Credit Card
+2024-11-01 07:22:45.818410,Mouse,426.33,North,Alice,Credit Card
+2024-10-02 07:22:45.818413,TV,131.2,West,Alice,Online Payment
+2024-03-20 07:22:45.818415,Smartphone,230.77,North,David,Bank Transfer
+2024-06-26 07:22:45.818418,Camera,73.29,South,Eva,Cash
+2024-11-26 07:22:45.818420,Keyboard,477.49,South,Charlie,Cash
+2024-02-17 07:22:45.818423,Printer,307.03,East,Bob,Online Payment
+2024-09-05 07:22:45.818426,Smartphone,122.03,North,Charlie,Online Payment
+2024-08-22 07:22:45.818428,Smartphone,339.13,West,Alice,Bank Transfer
+2024-12-12 07:22:45.818430,Headphones,312.88,West,Alice,Online Payment
+2024-05-18 07:22:45.818433,Keyboard,185.5,West,Alice,Online Payment
+2024-04-27 07:22:45.818436,Keyboard,65.64,West,David,Bank Transfer
+2024-06-28 07:22:45.818438,Headphones,339.07,West,Bob,Bank Transfer
+2024-12-29 07:22:45.818440,Camera,264.95,South,David,Credit Card
+2024-04-12 07:22:45.818444,Camera,388.44,East,Charlie,Online Payment
+2024-06-11 07:22:45.818449,TV,264.88,South,Charlie,Online Payment
+2024-05-11 07:22:45.818454,Smartwatch,427.57,South,David,Cash
+2024-07-03 07:22:45.818458,Smartphone,280.43,West,Alice,Credit Card
+2024-09-13 07:22:45.818463,Headphones,284.86,East,Eva,Credit Card
+2024-08-14 07:22:45.818467,Smartwatch,439.56,East,Alice,Bank Transfer
+2024-05-03 07:22:45.818472,Keyboard,207.71,North,Eva,Credit Card
+2024-06-01 07:22:45.818482,TV,75.67,North,Charlie,Bank Transfer
+2024-07-14 07:22:45.818485,Keyboard,24.1,North,Eva,Online Payment
+2024-12-14 07:22:45.818487,Keyboard,380.02,North,Charlie,Online Payment
+2024-09-23 07:22:45.818489,Headphones,313.95,North,Alice,Bank Transfer
+2024-05-07 07:22:45.818492,Headphones,355.0,South,Eva,Bank Transfer
+2024-06-19 07:22:45.818495,TV,114.35,South,Eva,Bank Transfer
+2024-03-10 07:22:45.818497,TV,76.82,West,David,Online Payment
+2024-05-08 07:22:45.818500,Keyboard,17.13,East,David,Online Payment
+2024-06-27 07:22:45.818502,Mouse,181.79,West,Alice,Credit Card
+2024-10-03 07:22:45.818505,Laptop,299.06,South,Bob,Online Payment
+2024-11-20 07:22:45.818507,Keyboard,202.2,North,David,Online Payment
+2024-01-02 07:22:45.818510,Camera,224.36,South,Eva,Cash
+2024-06-17 07:22:45.818513,Tablet,453.04,South,Eva,Bank Transfer
+2024-11-12 07:22:45.818516,Laptop,180.65,South,David,Cash
+2024-07-23 07:22:45.818519,Tablet,261.85,South,Charlie,Bank Transfer
+2024-07-17 07:22:45.818521,TV,393.99,West,Bob,Cash
+2024-05-05 07:22:45.818523,Smartwatch,204.31,South,Alice,Cash
+2024-04-21 07:22:45.818526,Smartphone,314.82,North,Bob,Bank Transfer
+2024-06-13 07:22:45.818528,Camera,432.56,South,Alice,Credit Card
+2024-04-20 07:22:45.818531,Mouse,475.27,East,Charlie,Bank Transfer
+2024-07-16 07:22:45.818533,Mouse,82.07,East,Bob,Online Payment
+2024-02-13 07:22:45.818536,Tablet,464.03,South,David,Bank Transfer
+2024-11-10 07:22:45.818538,Laptop,251.14,North,Bob,Credit Card
+2024-04-06 07:22:45.818541,TV,136.54,North,Eva,Credit Card
+2024-09-22 07:22:45.818543,Camera,234.98,South,Eva,Cash
+2024-11-28 07:22:45.818546,Mouse,490.22,North,Bob,Bank Transfer
+2024-06-29 07:22:45.818548,Keyboard,251.38,East,Eva,Credit Card
+2024-07-08 07:22:45.818551,Laptop,171.09,East,Bob,Credit Card
+2024-02-23 07:22:45.818553,Smartwatch,320.37,West,Eva,Online Payment
+2024-11-07 07:22:45.818556,Tablet,127.67,East,Charlie,Credit Card
+2024-08-12 07:22:45.818558,Laptop,47.17,South,Eva,Online Payment
+2024-07-24 07:22:45.818561,Headphones,73.15,East,Bob,Bank Transfer
+2024-10-26 07:22:45.818563,Smartwatch,72.74,North,Eva,Cash
+2024-04-28 07:22:45.818566,Mouse,84.43,North,Charlie,Cash
+2024-02-22 07:22:45.818568,Camera,78.03,South,Alice,Online Payment
+2024-07-27 07:22:45.818571,Printer,324.03,West,Charlie,Cash
+2024-07-04 07:22:45.818573,Tablet,99.12,South,Charlie,Credit Card
+2024-01-21 07:22:45.818584,Tablet,179.38,West,Alice,Credit Card
+2024-06-23 07:22:45.818587,Tablet,449.43,South,Bob,Bank Transfer
+2024-08-08 07:22:45.818590,Printer,242.24,South,Alice,Cash
+2024-03-16 07:22:45.818592,Smartwatch,337.1,North,Alice,Online Payment
+2024-08-03 07:22:45.818594,TV,94.44,South,Eva,Cash
+2024-05-23 07:22:45.818597,Smartwatch,104.22,East,Charlie,Online Payment
+2024-04-13 07:22:45.818600,Laptop,30.03,North,Charlie,Online Payment
+2024-12-16 07:22:45.818602,Mouse,92.78,South,Alice,Online Payment
+2024-09-10 07:22:45.818604,Headphones,146.51,North,Charlie,Credit Card
+2024-09-15 07:22:45.818607,TV,96.74,South,Charlie,Bank Transfer
+2024-04-09 07:22:45.818610,Keyboard,53.46,East,Eva,Credit Card
+2024-03-14 07:22:45.818612,Tablet,69.11,North,David,Credit Card
+2024-02-04 07:22:45.818615,Smartwatch,235.78,West,Charlie,Cash
+2024-02-03 07:22:45.818617,TV,111.1,East,Bob,Cash
+2024-05-26 07:22:45.818620,Mouse,188.49,West,Alice,Bank Transfer
+2024-12-31 07:22:45.818622,Mouse,256.67,West,Alice,Bank Transfer
+2024-05-24 07:22:45.818625,Smartphone,348.29,East,David,Bank Transfer
+2024-10-29 07:22:45.818628,TV,29.26,North,Charlie,Bank Transfer
+2024-07-07 07:22:45.818630,Tablet,401.71,West,David,Cash
+2024-08-10 07:22:45.818633,Headphones,317.67,North,Bob,Online Payment
+2024-07-07 07:22:45.818635,Printer,50.06,West,Charlie,Credit Card
+2024-05-20 07:22:45.818638,Smartphone,438.05,East,Eva,Online Payment
+2024-02-09 07:22:45.818640,Smartwatch,461.23,East,Eva,Credit Card
+2024-08-11 07:22:45.818643,Keyboard,39.93,West,Alice,Credit Card
+2024-08-21 07:22:45.818649,Laptop,145.67,West,Eva,Bank Transfer
+2024-03-11 07:22:45.818652,Smartwatch,405.04,East,Charlie,Cash
+2024-10-09 07:22:45.818655,Camera,376.65,East,Bob,Online Payment
+2024-01-07 07:22:45.818657,Mouse,100.42,North,Bob,Credit Card
+2024-08-13 07:22:45.818659,Laptop,112.58,West,David,Credit Card
+2024-01-19 07:22:45.818662,Tablet,191.53,North,Eva,Bank Transfer
+2024-10-01 07:22:45.818665,Mouse,247.42,West,Alice,Online Payment
+2024-01-21 07:22:45.818667,Tablet,312.94,South,Charlie,Online Payment
+2024-01-26 07:22:45.818670,Printer,190.77,South,Eva,Credit Card
+2024-09-14 07:22:45.818672,Keyboard,236.64,North,David,Credit Card
+2024-05-30 07:22:45.818675,TV,376.26,West,Bob,Online Payment
+2024-04-18 07:22:45.818677,Printer,27.97,North,Eva,Credit Card
+2024-04-12 07:22:45.818680,Tablet,133.69,West,David,Bank Transfer
+2024-11-08 07:22:45.818682,Smartphone,359.54,East,Charlie,Credit Card
+2024-12-15 07:22:45.818685,Laptop,448.65,East,Alice,Cash
+2024-10-28 07:22:45.818687,Tablet,260.72,East,Alice,Credit Card
+2024-04-04 07:22:45.818690,Smartwatch,270.74,South,Eva,Online Payment
+2024-10-27 07:22:45.818692,Mouse,62.51,East,David,Bank Transfer
+2024-10-15 07:22:45.818695,TV,229.23,South,Bob,Credit Card
+2024-09-08 07:22:45.818697,Camera,270.98,West,Eva,Cash
+2024-11-09 07:22:45.818700,Tablet,128.81,South,Bob,Online Payment
+2024-03-14 07:22:45.818702,Smartphone,141.93,East,David,Cash
+2024-07-25 07:22:45.818705,Headphones,194.87,West,David,Bank Transfer
+2024-06-08 07:22:45.818707,TV,19.83,West,Eva,Bank Transfer
+2024-12-12 07:22:45.818710,Headphones,167.82,North,Eva,Online Payment
+2024-07-31 07:22:45.818712,Mouse,113.61,North,David,Online Payment
+2024-08-25 07:22:45.818716,Tablet,170.47,West,Alice,Cash
+2024-03-15 07:22:45.818718,Camera,68.68,West,David,Cash
+2024-11-02 07:22:45.818721,Keyboard,446.36,South,Charlie,Online Payment
+2024-10-07 07:22:45.818723,Headphones,300.86,East,Bob,Bank Transfer
+2024-11-02 07:22:45.818725,Mouse,342.76,East,Eva,Credit Card
+2024-12-19 07:22:45.818728,Tablet,396.69,West,Eva,Bank Transfer
+2024-01-30 07:22:45.818731,Mouse,254.24,North,Charlie,Cash
+2024-03-29 07:22:45.818733,Camera,52.59,South,Eva,Bank Transfer
+2024-02-01 07:22:45.818736,Smartphone,273.18,West,David,Bank Transfer
+2024-05-29 07:22:45.818738,Smartwatch,297.55,South,Alice,Online Payment
+2024-10-14 07:22:45.818741,TV,375.27,South,Bob,Cash
+2024-02-06 07:22:45.818743,Camera,221.51,West,Charlie,Credit Card
+2024-07-28 07:22:45.818746,Headphones,72.51,South,Charlie,Credit Card
+2024-11-18 07:22:45.818748,TV,149.05,North,Alice,Bank Transfer
+2024-06-29 07:22:45.818751,Camera,187.91,West,Alice,Bank Transfer
+2024-07-24 07:22:45.818753,Headphones,326.5,East,Charlie,Bank Transfer
+2024-04-20 07:22:45.818756,Laptop,289.68,West,Charlie,Credit Card
+2024-10-21 07:22:45.818759,Headphones,184.49,West,David,Online Payment
+2024-10-22 07:22:45.818761,Tablet,493.39,East,David,Online Payment
+2024-07-17 07:22:45.818763,Mouse,306.83,South,David,Bank Transfer
+2024-11-10 07:22:45.818766,Smartwatch,126.24,West,Eva,Bank Transfer
+2024-11-07 07:22:45.818769,TV,59.87,East,Charlie,Online Payment
+2024-07-29 07:22:45.818771,Keyboard,84.9,North,Charlie,Bank Transfer
+2024-11-30 07:22:45.818774,Mouse,130.52,South,Alice,Online Payment
+2024-09-29 07:22:45.818776,Smartphone,88.73,South,David,Bank Transfer
+2024-08-05 07:22:45.818779,Keyboard,101.42,West,Alice,Cash
+2024-09-22 07:22:45.818781,Keyboard,149.7,South,Bob,Credit Card
+2024-06-12 07:22:45.818784,Keyboard,94.95,South,Alice,Cash
+2024-03-14 07:22:45.818786,Mouse,449.42,East,Bob,Online Payment
+2024-04-27 07:22:45.818789,TV,49.31,South,Bob,Bank Transfer
+2024-12-26 07:22:45.818791,Smartphone,267.01,North,Eva,Online Payment
+2024-06-15 07:22:45.818794,Mouse,211.09,North,Eva,Online Payment
+2024-03-13 07:22:45.818797,Mouse,491.37,East,Charlie,Online Payment
+2024-11-12 07:22:45.818799,Mouse,64.9,West,Eva,Credit Card
+2024-02-12 07:22:45.818802,Printer,204.95,East,David,Credit Card
+2024-11-03 07:22:45.818804,Keyboard,485.04,South,Alice,Cash
+2024-05-29 07:22:45.818807,Headphones,434.1,North,Alice,Credit Card
+2024-08-12 07:22:45.818809,TV,410.37,South,Alice,Cash
+2024-09-11 07:22:45.818815,Keyboard,136.37,East,Charlie,Credit Card
+2024-06-21 07:22:45.818817,Smartwatch,93.73,South,Bob,Online Payment
+2024-11-03 07:22:45.818820,Smartphone,337.64,East,Charlie,Online Payment
+2024-08-10 07:22:45.818822,Printer,465.39,North,Alice,Credit Card
+2024-01-29 07:22:45.818825,TV,282.81,South,David,Bank Transfer
+2024-08-17 07:22:45.818827,Laptop,290.09,South,Charlie,Online Payment
+2024-08-12 07:22:45.818830,Printer,147.19,West,David,Credit Card
+2024-03-17 07:22:45.818832,Smartwatch,387.05,East,David,Credit Card
+2024-08-20 07:22:45.818835,TV,101.65,West,David,Online Payment
+2024-07-06 07:22:45.818837,Smartwatch,168.6,North,Bob,Credit Card
+2024-11-03 07:22:45.818840,Laptop,218.46,East,Bob,Cash
+2024-07-14 07:22:45.818842,Tablet,258.73,West,Charlie,Cash
+2024-11-11 07:22:45.818844,TV,128.78,East,David,Cash
+2024-05-01 07:22:45.818847,TV,66.27,North,Bob,Online Payment
+2024-05-14 07:22:45.818849,Mouse,309.2,North,Alice,Credit Card
+2024-07-02 07:22:45.818852,Tablet,151.43,North,Bob,Bank Transfer
+2024-03-29 07:22:45.818854,Smartphone,294.81,West,Eva,Online Payment
+2024-08-10 07:22:45.818857,Smartphone,85.64,West,Bob,Cash
+2024-10-22 07:22:45.818859,Mouse,245.76,South,Charlie,Bank Transfer
+2024-07-17 07:22:45.818861,Laptop,270.97,West,Bob,Online Payment
+2024-05-30 07:22:45.818864,Keyboard,35.39,North,Eva,Bank Transfer
+2024-08-14 07:22:45.818867,Laptop,174.94,West,Bob,Credit Card
+2024-11-25 07:22:45.818869,Camera,75.86,North,David,Online Payment
+2024-05-10 07:22:45.818871,Printer,41.05,South,David,Online Payment
+2024-12-21 07:22:45.818874,Headphones,495.08,South,David,Credit Card
+2024-10-10 07:22:45.818877,Headphones,167.95,East,Alice,Credit Card
+2024-12-22 07:22:45.818879,Tablet,406.84,West,Alice,Credit Card
+2024-04-06 07:22:45.818881,Headphones,134.77,East,Bob,Online Payment
+2024-05-06 07:22:45.818884,Keyboard,343.94,North,David,Online Payment
+2024-11-25 07:22:45.818886,Smartphone,382.51,East,Bob,Credit Card
+2024-01-03 07:22:45.818888,Smartphone,301.86,South,Alice,Online Payment
+2024-09-11 07:22:45.818891,Mouse,241.07,West,Alice,Bank Transfer
+2024-09-04 07:22:45.818893,Smartwatch,211.8,South,Eva,Credit Card
+2024-10-05 07:22:45.818896,Smartwatch,180.95,North,Charlie,Online Payment
+2024-03-14 07:22:45.818898,Keyboard,465.47,West,Alice,Credit Card
+2024-07-06 07:22:45.818901,Tablet,417.0,West,Alice,Online Payment
+2024-11-22 07:22:45.818903,Tablet,482.86,West,Bob,Bank Transfer
+2024-07-20 07:22:45.818906,Printer,70.91,South,Eva,Cash
+2024-01-28 07:22:45.818909,Laptop,368.13,South,Bob,Online Payment
+2024-07-31 07:22:45.818912,Smartwatch,469.79,West,David,Credit Card
+2024-07-22 07:22:45.818914,Printer,98.8,West,Alice,Cash
+2024-06-17 07:22:45.818916,Camera,42.58,West,Alice,Cash
+2024-03-18 07:22:45.818919,Headphones,373.15,South,Bob,Bank Transfer
+2024-12-24 07:22:45.818921,Headphones,291.49,East,Alice,Cash
+2024-05-31 07:22:45.818923,Tablet,422.5,West,Charlie,Cash
+2024-11-25 07:22:45.818926,Smartwatch,78.49,South,Eva,Credit Card
+2024-07-22 07:22:45.818929,Headphones,399.68,West,Bob,Bank Transfer
+2024-09-06 07:22:45.818931,Tablet,108.8,West,Charlie,Bank Transfer
+2024-07-20 07:22:45.818933,Laptop,90.19,East,Alice,Credit Card
+2024-10-06 07:22:45.818936,Headphones,90.49,East,David,Credit Card
+2024-10-11 07:22:45.818938,Printer,409.14,South,Eva,Online Payment
+2024-02-02 07:22:45.818941,Smartphone,335.95,East,David,Bank Transfer
+2024-08-06 07:22:45.818943,Printer,266.3,West,Charlie,Cash
+2024-11-28 07:22:45.818946,Laptop,185.83,East,Eva,Online Payment
+2024-05-28 07:22:45.818948,TV,439.83,South,Alice,Online Payment
+2024-08-30 07:22:45.818951,Tablet,202.3,North,Eva,Bank Transfer
+2024-02-07 07:22:45.818953,Printer,410.13,North,Bob,Cash
+2024-11-04 07:22:45.818956,Tablet,225.18,West,Alice,Credit Card
+2024-04-06 07:22:45.818958,Smartwatch,194.7,East,Alice,Cash
+2024-03-18 07:22:45.818961,Headphones,236.71,West,Alice,Bank Transfer
+2024-08-31 07:22:45.818963,Tablet,157.68,East,Eva,Online Payment
+2024-11-20 07:22:45.818966,Keyboard,376.33,South,Charlie,Cash
+2024-01-20 07:22:45.818968,Printer,256.33,North,Alice,Credit Card
+2024-08-12 07:22:45.818971,Smartphone,123.78,West,Bob,Credit Card
+2024-01-21 07:22:45.818973,Smartwatch,450.79,South,David,Cash
+2024-01-14 07:22:45.818976,Tablet,198.11,West,Alice,Credit Card
+2024-04-28 07:22:45.818978,Laptop,276.34,East,Bob,Online Payment
+2024-12-31 07:22:45.818981,Mouse,454.17,North,Charlie,Credit Card
+2024-11-29 07:22:45.818983,Printer,315.88,East,David,Bank Transfer
+2024-01-18 07:22:45.818986,Camera,67.28,West,Bob,Online Payment
+2024-12-27 07:22:45.818988,Camera,470.52,West,David,Credit Card
+2024-12-16 07:22:45.818991,Smartphone,317.58,South,Charlie,Bank Transfer
+2024-07-14 07:22:45.818993,Smartwatch,174.1,South,Bob,Credit Card
+2024-03-13 07:22:45.818996,Smartwatch,78.24,West,Eva,Credit Card
+2024-11-20 07:22:45.818998,TV,399.07,South,Alice,Bank Transfer
+2024-02-21 07:22:45.819000,Tablet,313.84,North,Charlie,Online Payment
+2024-10-15 07:22:45.819003,Smartphone,271.4,North,David,Bank Transfer
+2024-11-04 07:22:45.819006,Headphones,448.01,South,Alice,Cash
+2024-07-05 07:22:45.819008,Laptop,396.41,West,David,Bank Transfer
+2024-07-29 07:22:45.819011,Laptop,84.32,West,Bob,Bank Transfer
+2024-05-16 07:22:45.819015,Tablet,162.74,South,Charlie,Credit Card
+2024-09-09 07:22:45.819018,Tablet,131.76,West,Bob,Cash
+2024-10-10 07:22:45.819021,Printer,374.53,South,Eva,Credit Card
+2024-03-08 07:22:45.819023,Smartphone,26.43,South,Bob,Cash
+2024-03-10 07:22:45.819026,Printer,289.25,South,Bob,Bank Transfer
+2024-10-13 07:22:45.819031,Mouse,383.6,South,Bob,Bank Transfer
+2024-01-27 07:22:45.819034,TV,439.62,North,Alice,Cash
+2024-11-12 07:22:45.819036,Headphones,177.62,West,Alice,Cash
+2024-06-27 07:22:45.819039,Keyboard,412.42,East,David,Credit Card
+2024-11-13 07:22:45.819044,Printer,64.21,South,Alice,Online Payment
+2024-05-26 07:22:45.819048,Keyboard,424.76,West,Eva,Cash
+2024-06-06 07:22:45.819052,Laptop,72.47,East,Alice,Cash
+2024-10-21 07:22:45.819057,Smartwatch,204.67,East,Eva,Bank Transfer
+2024-04-21 07:22:45.819060,Mouse,400.67,South,David,Cash
+2024-04-16 07:22:45.819064,Printer,83.46,South,Charlie,Bank Transfer
+2024-06-09 07:22:45.819068,Printer,122.33,South,Eva,Bank Transfer
+2024-01-03 07:22:45.819072,Printer,363.9,North,Eva,Online Payment
+2024-12-09 07:22:45.819077,Laptop,362.82,East,David,Online Payment
+2024-01-09 07:22:45.819081,Camera,324.16,North,Charlie,Credit Card
+2024-07-22 07:22:45.819086,Keyboard,350.03,North,Eva,Credit Card
+2024-10-06 07:22:45.819100,Keyboard,275.93,South,Eva,Bank Transfer
+2024-11-26 07:22:45.819103,Camera,133.38,East,Charlie,Cash
+2024-11-07 07:22:45.819105,Printer,179.39,South,David,Credit Card
+2024-01-01 07:22:45.819108,TV,98.98,North,Bob,Cash
+2024-07-28 07:22:45.819110,Camera,455.14,West,Alice,Cash
+2024-08-14 07:22:45.819113,Smartwatch,295.86,South,David,Bank Transfer
+2024-06-25 07:22:45.819117,Headphones,206.42,East,Eva,Credit Card
+2024-01-04 07:22:45.819121,Tablet,236.38,South,Alice,Online Payment
+2024-01-05 07:22:45.819126,Laptop,474.17,North,David,Cash
+2024-11-30 07:22:45.819130,Smartwatch,85.14,East,Alice,Cash
+2024-08-05 07:22:45.819135,Camera,297.25,East,Charlie,Online Payment
+2024-04-21 07:22:45.819139,TV,257.89,South,Eva,Online Payment
+2024-05-12 07:22:45.819142,Headphones,309.61,South,Eva,Online Payment
+2024-12-15 07:22:45.819144,Keyboard,18.87,South,Bob,Cash
+2024-08-15 07:22:45.819147,Smartphone,437.34,North,Eva,Credit Card
+2024-12-29 07:22:45.819149,TV,466.74,West,Charlie,Online Payment
+2024-05-06 07:22:45.819152,Printer,286.92,West,Alice,Cash
+2024-07-31 07:22:45.819154,Printer,351.36,North,Alice,Bank Transfer
+2024-09-16 07:22:45.819157,Laptop,462.02,West,Bob,Online Payment
+2024-04-02 07:22:45.819159,TV,356.55,South,Eva,Credit Card
+2024-09-23 07:22:45.819162,Printer,84.74,West,David,Cash
+2024-01-17 07:22:45.819164,Headphones,292.38,North,Eva,Credit Card
+2024-05-28 07:22:45.819167,Tablet,307.29,South,Charlie,Bank Transfer
+2024-09-28 07:22:45.819169,TV,217.82,North,David,Credit Card
+2024-08-14 07:22:45.819171,Headphones,370.86,East,David,Cash
+2024-04-28 07:22:45.819174,Printer,467.84,North,Charlie,Online Payment
+2024-10-31 07:22:45.819176,Tablet,463.53,East,Eva,Online Payment
+2024-03-03 07:22:45.819179,Camera,230.91,East,Charlie,Online Payment
+2024-07-03 07:22:45.819181,Smartphone,65.49,West,Bob,Online Payment
+2024-06-10 07:22:45.819184,Keyboard,492.57,East,Bob,Online Payment
+2024-11-10 07:22:45.819186,Mouse,421.06,North,David,Bank Transfer
+2024-04-08 07:22:45.819189,Mouse,71.08,East,Eva,Cash
+2024-10-31 07:22:45.819193,Tablet,461.21,South,David,Credit Card
+2024-03-26 07:22:45.819198,Tablet,436.25,South,Charlie,Online Payment
+2024-06-25 07:22:45.819203,Smartwatch,264.23,West,Alice,Bank Transfer
+2024-11-04 07:22:45.819207,Laptop,299.72,South,Eva,Online Payment
+2024-03-25 07:22:45.819211,Camera,205.51,North,Eva,Credit Card
+2024-01-28 07:22:45.819216,Smartphone,36.83,East,Eva,Cash
+2024-05-26 07:22:45.819228,Mouse,174.25,East,Eva,Credit Card
+2024-02-18 07:22:45.819232,Keyboard,403.4,North,Charlie,Online Payment
+2024-09-16 07:22:45.819234,TV,12.27,South,Alice,Bank Transfer
+2024-10-14 07:22:45.819237,Printer,173.41,North,David,Online Payment
+2024-10-28 07:22:45.819239,Keyboard,205.1,North,Eva,Credit Card
+2024-08-06 07:22:45.819242,Laptop,273.32,West,Charlie,Cash
+2024-12-23 07:22:45.819246,Smartwatch,460.73,South,David,Cash
+2024-06-14 07:22:45.819251,TV,179.71,South,David,Online Payment
+2024-08-09 07:22:45.819255,Laptop,180.01,West,David,Credit Card
+2024-03-09 07:22:45.819260,Printer,371.38,South,Charlie,Credit Card
+2024-02-02 07:22:45.819274,Keyboard,231.59,West,Bob,Online Payment
+2024-03-15 07:22:45.819278,Tablet,120.06,North,David,Credit Card
+2024-03-05 07:22:45.819281,Tablet,231.7,East,Alice,Cash
+2024-06-28 07:22:45.819283,Smartphone,79.02,North,Bob,Cash
+2024-12-25 07:22:45.819286,Printer,96.43,South,Bob,Cash
+2024-01-10 07:22:45.819288,Tablet,254.2,West,Charlie,Cash
+2024-03-19 07:22:45.819291,Smartphone,215.27,East,David,Credit Card
+2024-03-11 07:22:45.819293,Smartwatch,458.27,South,David,Bank Transfer
+2024-06-10 07:22:45.819296,Keyboard,187.57,East,Bob,Cash
+2024-10-31 07:22:45.819298,Headphones,294.49,West,Bob,Bank Transfer
+2024-09-21 07:22:45.819301,Tablet,319.81,North,David,Credit Card
+2024-11-15 07:22:45.819303,Smartwatch,16.42,East,David,Bank Transfer
+2024-11-06 07:22:45.819306,Printer,335.13,East,Alice,Cash
+2024-05-16 07:22:45.819308,Smartwatch,97.24,South,Bob,Online Payment
+2024-06-24 07:22:45.819311,Smartwatch,480.92,South,Bob,Credit Card
+2024-01-17 07:22:45.819314,Headphones,82.84,South,Eva,Online Payment
+2024-06-22 07:22:45.819316,Camera,213.17,West,David,Online Payment
+2024-09-18 07:22:45.819318,Smartphone,51.82,East,Charlie,Bank Transfer
+2024-12-18 07:22:45.819321,Laptop,498.47,North,David,Bank Transfer
+2024-07-17 07:22:45.819323,Tablet,256.08,North,Alice,Online Payment
+2024-07-01 07:22:45.819326,Printer,301.74,East,Charlie,Cash
+2024-05-14 07:22:45.819328,Smartwatch,42.87,North,Eva,Bank Transfer
+2024-04-17 07:22:45.819332,Headphones,377.48,West,Eva,Bank Transfer
+2024-03-09 07:22:45.819337,Camera,112.85,East,Charlie,Credit Card
+2024-02-29 07:22:45.819342,Tablet,450.05,North,Eva,Online Payment
+2024-03-24 07:22:45.819346,Smartphone,110.52,South,Eva,Online Payment
+2024-08-08 07:22:45.819351,Tablet,103.44,North,Bob,Credit Card
+2024-09-30 07:22:45.819355,Printer,27.91,East,Bob,Credit Card
+2024-06-13 07:22:45.819360,Keyboard,241.31,East,Alice,Cash
+2024-09-18 07:22:45.819365,Smartphone,286.77,East,David,Cash
+2024-01-22 07:22:45.819368,Printer,42.2,North,Alice,Online Payment
+2024-04-13 07:22:45.819371,Headphones,390.01,East,Charlie,Cash
+2024-08-30 07:22:45.819375,TV,232.11,West,Eva,Cash
+2024-06-14 07:22:45.819378,TV,266.95,South,Alice,Cash
+2024-12-16 07:22:45.819381,Keyboard,225.97,West,Bob,Cash
+2024-07-06 07:22:45.819383,Headphones,206.37,East,Charlie,Bank Transfer
+2024-07-25 07:22:45.819386,Headphones,284.22,South,Bob,Credit Card
+2024-02-14 07:22:45.819388,Keyboard,86.07,East,Charlie,Cash
+2024-04-10 07:22:45.819391,Laptop,99.14,East,Alice,Bank Transfer
+2024-05-27 07:22:45.819394,Headphones,432.27,North,David,Bank Transfer
+2024-04-23 07:22:45.819398,Mouse,473.6,South,Alice,Credit Card
+2024-03-04 07:22:45.819401,Smartwatch,192.92,South,Charlie,Online Payment
+2024-05-12 07:22:45.819403,Keyboard,142.66,North,Bob,Online Payment
+2024-10-03 07:22:45.819406,Tablet,325.56,East,Bob,Online Payment
+2024-07-07 07:22:45.819408,Headphones,210.28,West,David,Online Payment
+2024-04-19 07:22:45.819410,Mouse,22.44,East,Eva,Bank Transfer
+2024-06-11 07:22:45.819413,Laptop,86.51,West,Bob,Credit Card
+2024-04-27 07:22:45.819415,Tablet,360.83,North,Charlie,Credit Card
+2024-03-06 07:22:45.819418,TV,332.87,East,Charlie,Cash
+2024-11-28 07:22:45.819420,TV,23.28,West,Bob,Cash
+2024-10-25 07:22:45.819423,Smartwatch,118.77,South,Bob,Online Payment
+2024-11-14 07:22:45.819425,Tablet,123.23,North,Alice,Credit Card
+2024-09-03 07:22:45.819427,Smartwatch,339.23,West,Alice,Credit Card
+2024-11-13 07:22:45.819430,Keyboard,19.66,West,David,Cash
+2024-08-13 07:22:45.819433,Tablet,61.01,South,Charlie,Cash
+2024-02-22 07:22:45.819436,Smartwatch,401.96,West,Bob,Online Payment
+2024-06-18 07:22:45.819438,Camera,97.49,East,Eva,Bank Transfer
+2024-06-21 07:22:45.819441,Camera,329.85,East,Eva,Cash
+2024-08-24 07:22:45.819443,Laptop,126.71,North,David,Cash
+2024-04-20 07:22:45.819446,Headphones,58.73,North,David,Credit Card
+2024-10-26 07:22:45.819448,Smartphone,129.15,West,Eva,Cash
+2024-07-08 07:22:45.819450,Tablet,363.91,West,Alice,Bank Transfer
+2024-01-08 07:22:45.819453,Printer,429.29,South,Eva,Bank Transfer
+2024-08-25 07:22:45.819455,TV,416.81,North,David,Cash
+2024-11-27 07:22:45.819458,Smartwatch,204.62,East,Alice,Credit Card
+2024-02-04 07:22:45.819461,Smartwatch,337.36,South,David,Online Payment
+2024-03-04 07:22:45.819463,Printer,110.44,North,Charlie,Bank Transfer
+2024-04-30 07:22:45.819466,Printer,153.64,West,David,Cash
+2024-05-29 07:22:45.819469,Tablet,449.2,West,Alice,Bank Transfer
+2024-12-05 07:22:45.819471,Camera,16.37,South,Alice,Credit Card
+2024-04-27 07:22:45.819474,TV,51.9,West,Eva,Online Payment
+2024-06-10 07:22:45.819476,Mouse,111.86,North,Eva,Cash
+2024-10-14 07:22:45.819479,Headphones,23.0,South,David,Credit Card
+2024-05-11 07:22:45.819481,Camera,98.9,East,Bob,Online Payment
+2024-06-27 07:22:45.819484,Smartwatch,295.69,South,Charlie,Cash
+2024-11-21 07:22:45.819486,TV,216.5,South,Alice,Bank Transfer
+2024-09-10 07:22:45.819489,Smartwatch,447.41,East,Bob,Credit Card
+2024-06-15 07:22:45.819491,Keyboard,410.55,East,Bob,Credit Card
+2024-08-07 07:22:45.819494,Tablet,177.49,East,Bob,Credit Card
+2024-06-01 07:22:45.819496,Tablet,137.12,North,Eva,Credit Card
+2024-04-19 07:22:45.819499,Laptop,196.05,South,David,Bank Transfer
+2024-07-13 07:22:45.819501,TV,299.24,West,Eva,Cash
+2024-02-26 07:22:45.819503,Camera,141.35,South,David,Online Payment
+2024-09-26 07:22:45.819506,TV,315.83,East,Bob,Online Payment
+2024-09-19 07:22:45.819509,Mouse,210.61,North,Alice,Cash
+2024-02-14 07:22:45.819511,Printer,280.5,North,Bob,Bank Transfer
+2024-08-23 07:22:45.819514,Headphones,223.7,West,David,Bank Transfer
+2024-12-19 07:22:45.819516,Smartphone,154.29,North,Alice,Cash
+2024-04-16 07:22:45.819520,Printer,474.74,South,Bob,Cash
+2024-02-16 07:22:45.819525,Camera,384.17,North,Eva,Online Payment
+2024-01-22 07:22:45.819530,Smartphone,78.66,West,Eva,Cash
+2024-11-03 07:22:45.819535,Smartphone,435.55,North,David,Online Payment
+2024-01-20 07:22:45.819540,Smartphone,248.84,South,Alice,Bank Transfer
+2024-12-09 07:22:45.819545,Tablet,448.33,East,Charlie,Bank Transfer
+2024-03-14 07:22:45.819550,Mouse,401.93,North,Bob,Online Payment
+2024-02-06 07:22:45.819555,Smartwatch,218.35,West,Charlie,Cash
+2024-08-21 07:22:45.819557,Laptop,21.01,West,Bob,Bank Transfer
+2024-06-27 07:22:45.819559,Mouse,141.65,West,David,Cash
+2024-09-14 07:22:45.819562,Smartphone,275.4,South,David,Online Payment
+2024-12-15 07:22:45.819565,Smartphone,320.4,East,Charlie,Online Payment
+2024-04-09 07:22:45.819567,Smartphone,136.36,North,Bob,Bank Transfer
+2024-09-26 07:22:45.819570,Mouse,78.28,East,Charlie,Bank Transfer
+2024-04-08 07:22:45.819573,Smartwatch,419.12,East,David,Bank Transfer
+2024-06-02 07:22:45.819576,Smartwatch,492.36,East,Eva,Cash
+2024-08-29 07:22:45.819578,Camera,267.59,East,Bob,Online Payment
+2024-06-25 07:22:45.819580,Smartwatch,94.12,South,Bob,Credit Card
+2024-05-06 07:22:45.819583,Printer,143.43,South,Charlie,Bank Transfer
+2024-10-19 07:22:45.819586,Laptop,19.01,East,Eva,Cash
+2024-06-30 07:22:45.819588,Smartphone,458.01,East,David,Online Payment
+2024-10-18 07:22:45.819590,Tablet,67.7,North,Bob,Bank Transfer
+2024-05-05 07:22:45.819593,Headphones,292.49,West,David,Cash
+2024-01-06 07:22:45.819595,Keyboard,144.29,North,Bob,Bank Transfer
+2024-06-27 07:22:45.819598,TV,281.55,South,Alice,Cash
+2024-11-10 07:22:45.819600,TV,329.2,South,Charlie,Cash
+2024-01-10 07:22:45.819603,Laptop,416.57,East,Eva,Online Payment
+2024-12-03 07:22:45.819605,TV,111.15,East,Bob,Bank Transfer
+2024-06-01 07:22:45.819607,Keyboard,15.39,South,Alice,Bank Transfer
+2024-10-24 07:22:45.819610,Printer,77.07,North,Bob,Bank Transfer
+2024-07-12 07:22:45.819613,Mouse,451.01,East,Eva,Cash
+2024-02-11 07:22:45.819615,Tablet,438.21,North,David,Bank Transfer
+2024-08-16 07:22:45.819617,Camera,302.73,North,Bob,Bank Transfer
+2024-01-17 07:22:45.819620,TV,304.25,West,David,Bank Transfer
+2024-02-22 07:22:45.819622,TV,335.87,West,David,Cash
+2024-03-23 07:22:45.819625,Smartphone,95.93,North,Bob,Online Payment
+2024-09-29 07:22:45.819628,Smartwatch,458.06,East,David,Cash
+2024-10-27 07:22:45.819630,Headphones,215.2,West,Alice,Bank Transfer
+2024-03-18 07:22:45.819633,Laptop,197.74,North,Charlie,Online Payment
+2024-03-12 07:22:45.819635,Smartphone,264.27,South,Charlie,Credit Card
+2024-02-28 07:22:45.819638,Printer,33.01,West,Charlie,Cash
+2024-03-23 07:22:45.819640,Smartphone,91.48,North,Bob,Online Payment
+2024-07-13 07:22:45.819643,Mouse,371.64,South,Eva,Bank Transfer
+2024-07-14 07:22:45.819645,TV,50.57,South,Bob,Cash
+2024-12-21 07:22:45.819648,Laptop,305.54,East,Alice,Credit Card
+2024-09-01 07:22:45.819650,Laptop,130.22,South,Bob,Cash
+2024-12-31 07:22:45.819653,Mouse,200.75,West,Alice,Cash
+2024-04-02 07:22:45.819655,Smartphone,151.46,South,Bob,Online Payment
+2024-08-28 07:22:45.819658,Printer,184.28,North,Eva,Online Payment
+2024-05-26 07:22:45.819660,Camera,362.33,West,Bob,Online Payment
+2024-09-03 07:22:45.819662,Smartphone,155.59,South,Charlie,Bank Transfer
+2024-01-06 07:22:45.819665,Mouse,287.54,West,Alice,Bank Transfer
+2024-12-13 07:22:45.819667,Laptop,243.26,South,David,Online Payment
+2024-09-29 07:22:45.819670,Headphones,335.2,West,Alice,Cash
+2024-09-09 07:22:45.819672,Camera,469.05,North,Charlie,Credit Card
+2024-10-29 07:22:45.819675,Smartphone,368.96,West,Charlie,Credit Card
+2024-10-19 07:22:45.819686,Smartphone,115.32,East,Charlie,Credit Card
+2024-12-12 07:22:45.819689,Smartphone,25.28,South,David,Cash
+2024-02-27 07:22:45.819691,Laptop,138.51,South,David,Credit Card
+2024-12-09 07:22:45.819694,Smartwatch,301.59,East,Charlie,Credit Card
+2024-11-21 07:22:45.819696,Tablet,35.2,East,Charlie,Credit Card
+2024-08-13 07:22:45.819699,Laptop,253.22,West,Eva,Credit Card
+2024-07-11 07:22:45.819701,Mouse,302.45,West,Bob,Online Payment
+2024-01-16 07:22:45.819703,TV,173.78,West,Bob,Bank Transfer
+2024-10-07 07:22:45.819706,TV,387.75,West,Eva,Bank Transfer
+2024-07-15 07:22:45.819708,Headphones,62.23,South,David,Bank Transfer
+2024-11-22 07:22:45.819711,Camera,46.82,East,Charlie,Bank Transfer
+2024-07-30 07:22:45.819713,TV,366.81,South,Charlie,Cash
+2024-05-23 07:22:45.819716,Laptop,252.79,East,Charlie,Credit Card
+2024-03-06 07:22:45.819718,Mouse,347.32,West,Alice,Credit Card
+2024-04-23 07:22:45.819721,Smartphone,223.07,North,Bob,Credit Card
+2024-07-20 07:22:45.819723,Keyboard,130.74,East,Bob,Credit Card
+2024-03-30 07:22:45.819726,Mouse,411.36,North,David,Online Payment
+2024-02-21 07:22:45.819728,Printer,401.71,South,David,Bank Transfer
+2024-05-26 07:22:45.819731,Tablet,350.4,West,Eva,Cash
+2024-07-01 07:22:45.819734,Laptop,143.35,North,Eva,Credit Card
+2024-08-28 07:22:45.819736,Keyboard,299.21,West,Bob,Cash
+2024-09-20 07:22:45.819739,Printer,186.88,North,Alice,Bank Transfer
+2024-10-22 07:22:45.819741,Smartphone,54.88,South,Charlie,Online Payment
+2024-01-22 07:22:45.819743,Smartwatch,459.48,South,David,Online Payment
+2024-04-14 07:22:45.819746,Smartwatch,77.04,West,Eva,Online Payment
+2024-05-21 07:22:45.819748,Laptop,475.62,South,Charlie,Credit Card
+2024-01-16 07:22:45.819751,Camera,228.54,West,Eva,Credit Card
